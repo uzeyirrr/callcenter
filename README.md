@@ -262,28 +262,28 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 ## 📈 Roadmap
 
-### Q1 2024
+### Q1 2025
 
 - [x] Proje planlama ve mimari tasarım
 - [x] Temel altyapı kurulumu
 - [ ] Kullanıcı yönetimi sistemi
 - [ ] Temel dashboard
 
-### Q2 2024
+### Q2 2025
 
 - [ ] VoIP entegrasyonu
 - [ ] Çağrı yönetimi
 - [ ] Müşteri yönetim modülü
 - [ ] Temel raporlama
 
-### Q3 2024
+### Q3 2025
 
 - [ ] AI görüşme sistemi
 - [ ] Doğal dil işleme
 - [ ] Otomatik özetleme
 - [ ] Sentiment analizi
 
-### Q4 2024
+### Q4 2025
 
 - [ ] Drive sistemi
 - [ ] Gelişmiş raporlama
@@ -292,4 +292,4 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 ---
 
-_Son güncelleme: 2024_
+_Son güncelleme: 16/09/2025_
