@@ -414,5 +414,5 @@
 
 ---
 
-_Son güncelleme: 2024_
+_Son güncelleme: 16/09/2025_
 _Toplam tahmini süre: 28-38 hafta_
