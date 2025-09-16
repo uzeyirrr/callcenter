@@ -7,8 +7,9 @@
 - [x] Next.js projesi kurulumu
 - [x] TypeScript konfigürasyonu
 - [x] Tailwind CSS ve Shadcn UI kurulumu
-- [ ] ESLint ve Prettier ayarları
-- [ ] Git repository kurulumu
+- [x] ESLint ve Prettier ayarları
+- [x] Git repository kurulumu
+- [x] README.md güncelleme
 
 ---
 
@@ -19,8 +20,9 @@
 - [x] Next.js projesi oluşturma
 - [x] TypeScript konfigürasyonu
 - [x] Tailwind CSS ve Shadcn UI kurulumu
-- [ ] ESLint ve Prettier ayarları
-- [ ] Git repository kurulumu
+- [x] ESLint ve Prettier ayarları
+- [x] Git repository kurulumu
+- [x] README.md güncelleme
 
 ### Veritabanı Tasarımı
 
@@ -372,6 +374,8 @@
 
 - [x] Next.js projesi kurulumu
 - [x] Shadcn UI kurulumu
+- [x] ESLint ve Prettier ayarları
+- [x] README.md güncelleme
 - [ ] Temel layout component
 - [ ] Navigation sistemi
 
