@@ -405,14 +405,7 @@
 - Dakika bazlı fiyatlandırma
 - Esnek kredi paketleri
 
-### Hedefler
-
-- Q1 2024: Temel platform
-- Q2 2024: VoIP entegrasyonu
-- Q3 2024: AI özellikleri
-- Q4 2024: Mobil uygulama
-
 ---
 
-_Son güncelleme: 16/09/2025_
+_Son güncelleme: 2025_
 _Toplam tahmini süre: 28-38 hafta_
