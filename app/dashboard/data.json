@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "header": "Müşteri Hizmetleri - Genel Sorular",
+    "type": "AI Destekli",
+    "status": "Tamamlandı",
+    "target": "95",
+    "limit": "98",
+    "reviewer": "AI Sistemi"
+  },
+  {
+    "id": 2,
+    "header": "Teknik Destek - Sistem Hatası",
+    "type": "Uzman Desteği",
+    "status": "Devam Ediyor",
+    "target": "85",
+    "limit": "78",
+    "reviewer": "Ahmet Yılmaz"
+  },
+  {
+    "id": 3,
+    "header": "Fatura Sorgulama - Ödeme",
+    "type": "AI Destekli",
+    "status": "Tamamlandı",
+    "target": "90",
+    "limit": "92",
+    "reviewer": "AI Sistemi"
+  },
+  {
+    "id": 4,
+    "header": "Ürün Bilgisi - Fiyat",
+    "type": "AI Destekli",
+    "status": "Tamamlandı",
+    "target": "88",
+    "limit": "91",
+    "reviewer": "AI Sistemi"
+  },
+  {
+    "id": 5,
+    "header": "Şikayet - Hizmet Kalitesi",
+    "type": "Uzman Desteği",
+    "status": "Devam Ediyor",
+    "target": "75",
+    "limit": "82",
+    "reviewer": "Fatma Demir"
+  },
+  {
+    "id": 6,
+    "header": "Sipariş Takibi - Kargo",
+    "type": "AI Destekli",
+    "status": "Tamamlandı",
+    "target": "92",
+    "limit": "95",
+    "reviewer": "AI Sistemi"
+  },
+  {
+    "id": 7,
+    "header": "Hesap Açma - Yeni Müşteri",
+    "type": "Uzman Desteği",
+    "status": "Tamamlandı",
+    "target": "80",
+    "limit": "85",
+    "reviewer": "Mehmet Kaya"
+  },
+  {
+    "id": 8,
+    "header": "Şifre Sıfırlama - Güvenlik",
+    "type": "AI Destekli",
+    "status": "Tamamlandı",
+    "target": "95",
+    "limit": "97",
+    "reviewer": "AI Sistemi"
+  },
+  {
+    "id": 9,
+    "header": "Ürün İade - Garanti",
+    "type": "Uzman Desteği",
+    "status": "Devam Ediyor",
+    "target": "70",
+    "limit": "75",
+    "reviewer": "Ayşe Özkan"
+  },
+  {
+    "id": 10,
+    "header": "Kampanya Bilgisi - İndirim",
+    "type": "AI Destekli",
+    "status": "Tamamlandı",
+    "target": "93",
+    "limit": "96",
+    "reviewer": "AI Sistemi"
+  },
+  {
+    "id": 11,
+    "header": "Kurumsal Satış - Toplu Sipariş",
+    "type": "Uzman Desteği",
+    "status": "Devam Ediyor",
+    "target": "65",
+    "limit": "70",
+    "reviewer": "Ali Veli"
+  },
+  {
+    "id": 12,
+    "header": "Mobil Uygulama - Teknik Sorun",
+    "type": "AI Destekli",
+    "status": "Tamamlandı",
+    "target": "87",
+    "limit": "89",
+    "reviewer": "AI Sistemi"
+  },
+  {
+    "id": 13,
+    "header": "Ödeme Yöntemi - Kredi Kartı",
+    "type": "AI Destekli",
+    "status": "Tamamlandı",
+    "target": "91",
+    "limit": "94",
+    "reviewer": "AI Sistemi"
+  },
+  {
+    "id": 14,
+    "header": "Adres Değişikliği - Profil",
+    "type": "Uzman Desteği",
+    "status": "Tamamlandı",
+    "target": "85",
+    "limit": "88",
+    "reviewer": "Zeynep Arslan"
+  },
+  {
+    "id": 15,
+    "header": "Üyelik İptali - Hesap Kapatma",
+    "type": "Uzman Desteği",
+    "status": "Devam Ediyor",
+    "target": "60",
+    "limit": "65",
+    "reviewer": "Can Yıldız"
+  },
+  {
+    "id": 16,
+    "header": "Stok Sorgulama - Ürün Durumu",
+    "type": "AI Destekli",
+    "status": "Tamamlandı",
+    "target": "96",
+    "limit": "98",
+    "reviewer": "AI Sistemi"
+  },
+  {
+    "id": 17,
+    "header": "Kargo Ücreti - Teslimat",
+    "type": "AI Destekli",
+    "status": "Tamamlandı",
+    "target": "89",
+    "limit": "92",
+    "reviewer": "AI Sistemi"
+  },
+  {
+    "id": 18,
+    "header": "Garanti Kapsamı - Onarım",
+    "type": "Uzman Desteği",
+    "status": "Devam Ediyor",
+    "target": "72",
+    "limit": "78",
+    "reviewer": "Emre Çelik"
+  },
+  {
+    "id": 19,
+    "header": "Kampanya Katılım - Promosyon",
+    "type": "AI Destekli",
+    "status": "Tamamlandı",
+    "target": "94",
+    "limit": "96",
+    "reviewer": "AI Sistemi"
+  },
+  {
+    "id": 20,
+    "header": "Fatura İtirazı - Yanlış Tutar",
+    "type": "Uzman Desteği",
+    "status": "Devam Ediyor",
+    "target": "68",
+    "limit": "73",
+    "reviewer": "Selin Aktaş"
+  },
+  {
+    "id": 21,
+    "header": "Ürün Önerisi - Kişiselleştirme",
+    "type": "AI Destekli",
+    "status": "Tamamlandı",
+    "target": "86",
+    "limit": "90",
+    "reviewer": "AI Sistemi"
+  },
+  {
+    "id": 22,
+    "header": "Hesap Güvenliği - Şüpheli Aktivite",
+    "type": "Uzman Desteği",
+    "status": "Devam Ediyor",
+    "target": "55",
+    "limit": "62",
+    "reviewer": "Burak Öztürk"
+  },
+  {
+    "id": 23,
+    "header": "Teslimat Adresi - Güncelleme",
+    "type": "AI Destekli",
+    "status": "Tamamlandı",
+    "target": "92",
+    "limit": "95",
+    "reviewer": "AI Sistemi"
+  },
+  {
+    "id": 24,
+    "header": "Ürün Karşılaştırma - Özellikler",
+    "type": "AI Destekli",
+    "status": "Tamamlandı",
+    "target": "88",
+    "limit": "91",
+    "reviewer": "AI Sistemi"
+  },
+  {
+    "id": 25,
+    "header": "Kurumsal Anlaşma - Fiyat Teklifi",
+    "type": "Uzman Desteği",
+    "status": "Devam Ediyor",
+    "target": "45",
+    "limit": "52",
+    "reviewer": "Deniz Kılıç"
+  },
+  {
+    "id": 26,
+    "header": "Müşteri Memnuniyeti - Anket",
+    "type": "AI Destekli",
+    "status": "Tamamlandı",
+    "target": "97",
+    "limit": "99",
+    "reviewer": "AI Sistemi"
+  },
+  {
+    "id": 27,
+    "header": "Teknik Dokümantasyon - Kullanım Kılavuzu",
+    "type": "AI Destekli",
+    "status": "Tamamlandı",
+    "target": "90",
+    "limit": "93",
+    "reviewer": "AI Sistemi"
+  },
+  {
+    "id": 28,
+    "header": "Ödeme Planı - Taksit Seçenekleri",
+    "type": "Uzman Desteği",
+    "status": "Devam Ediyor",
+    "target": "75",
+    "limit": "80",
+    "reviewer": "Gizem Şahin"
+  },
+  {
+    "id": 29,
+    "header": "Ürün Yorumu - Değerlendirme",
+    "type": "AI Destekli",
+    "status": "Tamamlandı",
+    "target": "93",
+    "limit": "96",
+    "reviewer": "AI Sistemi"
+  },
+  {
+    "id": 30,
+    "header": "Hesap Aktivasyonu - Doğrulama",
+    "type": "AI Destekli",
+    "status": "Tamamlandı",
+    "target": "95",
+    "limit": "98",
+    "reviewer": "AI Sistemi"
+  }
+]
